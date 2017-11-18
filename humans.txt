@@ -1,0 +1,11 @@
+
+/* DEVELOPER */
+	Web designer: Mark Mathur
+	Contact: mm223jv snabel-a student.lnu.se
+	Twitter: @mrkWebProg
+	From: Vetlanda, Sweden
+	
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	Sofware: Jekyll
