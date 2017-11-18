@@ -2,6 +2,7 @@
 layout: post
 title:  "Markdown is an awesome language"
 date:   2017-11-10 12:44:39 +0000
+comments: true
 categories: markup languages
 ---
 
