@@ -23,7 +23,7 @@ twitter_username: @mrkWebProg
 github_username:  markmathur
 facebook_username: mark.mathur
 disqus:
-    shortname: https-markmathur-github-io
+    shortname: https://markmathur.github.io
 
 # Build settings
 markdown: kramdown
