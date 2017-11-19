@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mixed answers"
-date:   2017-11-18 18:44:39 +0100
+date:   2017-11-18 23:44:39 +0100
 comments: true
 categories: CSS
 ---
@@ -44,3 +44,16 @@ etc.
 On my site I have chosen to communicate title, type, url, image, locale (the site is in English, but 
 coming from Sweden) and description.
 
+## Comments on blog posts
+
+Blog posts usually can be commented by readers. For that purpose I added the function from Disqus.
+It wasn't an easy operation. I got an account from their website, added my URL and the shortname 
+in _config.yml, and wrote 'comments: true' in post.html. But it didn't work. Looking att the source 
+of the published page, I noticed that some URL:s in the HTML were relative. 
+
+Finally, with some help from a friend, I added 'link rel="canonical" href="https://markmathur.github.io/ssg/2017/11/18/static-site-generators.html"'
+to head.html, and it eventually worked after som failed uploads. I don't know why it was 
+missing at start. I worked on Cloud 9, and copied code from the minima-github-site, which 
+might be an explanation. 
+
+But now it works, and that is the huvudsak. 
