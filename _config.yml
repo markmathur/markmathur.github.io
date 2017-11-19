@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mark Mathur's Jekyll-empowered web page for listing exercises and examinations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://markmathur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @mrkWebProg
+twitter_username: mrkWebProg
 github_username:  markmathur
 facebook_username: mark.mathur
 disqus:
