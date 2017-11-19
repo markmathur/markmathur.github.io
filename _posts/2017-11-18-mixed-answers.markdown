@@ -30,3 +30,17 @@ one has to literally invoke it to see it).
 
 ## Open graph 
 
+Facebook first developed this protocol to be able to register better whats its users were 
+doing and with what, as such things were often shared in social media. Today it is controlled 
+by the Open Web Foundation and is the standard for several social medias. 
+
+Basically, adding Open graph tags to you site (or other apps and stuff that can be shared via 
+social media) lets you control what a *share* would look like when a user shared its acitivity
+on a social media web site. For instance, if you have connected your listening on Spotify to 
+your Facebook account, Spotify can with Open graph control how that *share* is to be displayed: 
+Title? Artist? Song name? The album cover? Some additional text string such as "nn is listening to"
+etc. 
+
+On my site I have chosen to communicate title, type, url, image, locale (the site is in English, but 
+coming from Sweden) and description.
+
